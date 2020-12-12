@@ -1,0 +1,39 @@
+baseURL = "https://BeateZirdzina.github.io/myblog/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/XXX"
+    twitter = "https://twitter.com/XXX"
+    email = "XXX@example.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
+
+    [[menu.main]]
+name = "Blog"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Projects"
+url = "/project/"
+weight = 2
+
+[[menu.main]]
+name = "Contact"
+url = "/page/contact/"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/page/about/"
+weight = 4
