@@ -2,6 +2,8 @@ baseURL = "https://BeateZirdzina.github.io/myblog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ghostwriter"
+publishDir = "docs"
+canonifyURLs = true
 
 [Params]
     mainSections = ["post"]
@@ -14,7 +16,7 @@ theme = "ghostwriter"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
-
+    canonifyURLs = true
 [Permalinks]
     post = "/:filename/"
 
@@ -22,11 +24,6 @@ theme = "ghostwriter"
 name = "Blog"
 url = "/"
 weight = 1
-
-[[menu.main]]
-name = "Projects"
-url = "/project/"
-weight = 2
 
 [[menu.main]]
 name = "Contact"

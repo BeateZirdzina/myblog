@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/introduction/</loc>
+    <lastmod>2020-12-12T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/</loc>
+    <lastmod>2020-12-12T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/post/</loc>
+    <lastmod>2020-12-12T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/page/about/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/page/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/page/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/goisforlovers/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/tags/development/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/tags/go/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/tags/golang/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/migrate-from-jekyll/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/tags/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/tags/templates/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/tags/themes/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BeateZirdzina.github.io/myblog/categories/</loc>
+  </url>
+  
+</urlset>
