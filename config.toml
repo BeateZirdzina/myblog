@@ -1,22 +1,21 @@
-baseURL = "https://BeateZirdzina.github.io/myblog/"
+baseURL = "https://beatezirdzina.github.io/username.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ghostwriter"
 publishDir = "docs"
-canonifyURLs = true
+
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    headline = "A Lightweight Peruse in Recommender Systems"
+    description = "Because it's 2020 and Scrolling [Insert Site of Choice] is our Only Option At this point"
+    github = "https://github.com/BeateZirdzina/username.github.io"
+  
+    email = "beate.zirdzina@gmail.com"
     opengraph = true
-    shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
-    canonifyURLs = true
+    dateFormat = "Mon, Jan 2, 2020"
+    
 [Permalinks]
     post = "/:filename/"
 
